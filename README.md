@@ -5,3 +5,7 @@ Just a work in progress. Will be able to allow users to generate iambic sentence
 ```
 $ npm install && bower install
 ```
+And then
+```
+$ grunt
+```
