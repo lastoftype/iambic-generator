@@ -1,0 +1,16 @@
+{
+  "name": "personal-site-munhjem",
+  "version": "0.1",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.3",
+    "FitText.js": "~1.2.0",
+    "modernizr": "~2.8.3",
+    "randomize.scss": "~0.9.7",
+    "bower": "*",
+    "install": "~1.0.4",
+    "typed.js": "*",
+    "animate.css": "~3.2.3",
+    "animate.less": "*",
+    "animate.scss": "*"
+  }
+}
